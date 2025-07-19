@@ -66,7 +66,7 @@ const Overview = () => {
 
                         <DialogContent className="p-0 overflow-hidden max-w-[640px] xl:max-w-[1000px]">
                             <AspectRatio ratio={16 / 9}>
-                                <ReactPlayer url='https://youtu.be/cvd2XGJBgLg' style={{
+                                <ReactPlayer url='#' style={{
                                     minWidth: '100%',
                                     maxWidth: '100%',
                                     minHeight: '100%',
