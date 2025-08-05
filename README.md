@@ -1,6 +1,6 @@
 # Analytica
 
-A sleek and modern landing page for a SaaS analytics tool — designed to make a lasting first impression.
+A sleek and modern landing page for a SaaS analytics tool, designed to make a lasting first impression.
 
 > 🚀 Live Preview: [analytica01.vercel.app](https://analytica01.vercel.app/)
 
@@ -20,7 +20,7 @@ It offers a clean, professional interface for analytics-focused SaaS platforms, 
 
 ## 📸 Preview
 
-![Analytica Screenshot](./preview.png)  
+![Analytica Screenshot](./hero-screenshot.png)  
 <!-- Replace with actual screenshot filename or upload to the repo -->
 
 ---
@@ -47,4 +47,5 @@ npm install
 
 # Start development server
 npm run dev
+
 
