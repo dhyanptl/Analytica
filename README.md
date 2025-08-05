@@ -20,6 +20,7 @@ It offers a clean, professional interface for analytics-focused SaaS platforms, 
 
 ## 📸 Preview
 
+![Analytica Screenshot](./hero screenshot.png)  
 ![Analytica Screenshot](./hero-screenshot.png)  
 <!-- Replace with actual screenshot filename or upload to the repo -->
 
@@ -47,5 +48,6 @@ npm install
 
 # Start development server
 npm run dev
+
 
 
