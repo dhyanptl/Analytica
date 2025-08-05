@@ -12,7 +12,7 @@ Analytica is a **frontend-only**, fully responsive landing page built with:
 
 - **React** (TypeScript)
 - **Tailwind CSS**
-- **Framer Motion** for smooth animations
+- **Motion** for smooth animations
 
 It offers a clean, professional interface for analytics-focused SaaS platforms, with a design that adapts beautifully across devices.
 
@@ -29,7 +29,7 @@ It offers a clean, professional interface for analytics-focused SaaS platforms, 
 
 - **React + TypeScript**
 - **Tailwind CSS**
-- **Framer Motion**
+- **Motion**
 
 ---
 
@@ -47,3 +47,4 @@ npm install
 
 # Start development server
 npm run dev
+
